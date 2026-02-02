@@ -1,16 +1,23 @@
-# React + Vite
+https://6980c56ec4c1ac9b69f26bbd--cerulean-longma-e26ea0.netlify.app/ -This is my projectlink
+🚀 Built a React To-Do List App using Hooks!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I created a simple yet functional To-Do application to strengthen my React fundamentals.
 
-Currently, two official plugins are available:
+✨ Features:
+✔ Add tasks (Enter key support)
+✔ Mark tasks as completed
+✔ Delete tasks
+✔ Random coding motivation quotes
+✔ Clean and responsive UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack:
+• React.js
+• useState Hook
+• CSS
 
-## React Compiler
+This project helped me understand state management and component logic better.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 GitHub: https://github.com/stenyjaya/todolist
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Feedback & suggestions are welcome! 😊
+#ReactJS #JavaScript #WebDevelopment #Frontend #LearningByBuilding
